@@ -1,0 +1,17 @@
+ 
+-------------------------------------------------------- 
+ 
+ELECTION RESULT ANALYSIS 
+ 
+Total number of votes cast: 3,521,001 
+-------------------------------------------------------- 
+Candidate: Khan; Votes Received: 2,218,231; Vote Share: 63 percent 
+Candidate: Correy; Votes Received: 704,200; Vote Share: 19 percent 
+Candidate: Li; Votes Received: 492,940; Vote Share: 13 percent 
+Candidate: O'Tooley; Votes Received: 105,630; Vote Share: 2 percent 
+ 
+--------------------------------------------------------- 
+ 
+Winner is: Khan with 63 percent of the votes 
+ 
+--------------------------------------------------------- 
